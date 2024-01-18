@@ -1,0 +1,8 @@
+{
+    "editor.detectIndentation": true,
+    "editor.defaultFormatter": null,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.guides.indentation": true
+}
